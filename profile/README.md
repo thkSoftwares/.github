@@ -14,6 +14,10 @@ class Bio extends SoftwaresCompany {
   goal     = 'Inventing better future';
 }
 
+class Description extends SoftwaresCompany {
+  description = 'THK Softwares is a software development company that specializes in creating custom software applications tailored specifically to fit your business needs.';
+}
+
 class Skills extends SoftwaresCompany {
   languages  = ['JavaScript', 'Python'];
   databases  = ['MySQL', 'MongoDB', 'PostgreSQL'];
