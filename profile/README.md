@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../cover.png" />
+  <img src="https://raw.githubusercontent.com/thkSoftwares/.github/main/cover.png" />
 </p>
 
 
